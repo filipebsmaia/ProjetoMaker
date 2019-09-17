@@ -10,5 +10,7 @@ A conexão arduino-aplicativo foi feita via bluethooth.</i>
 [Aplicativo](https://github.com/filipebsmaia/ProjetoMaker/tree/master/app)
 
 ### Jogo
-![SnakeGame](https://github.com/filipebsmaia/ProjetoMaker/blob/master/video/maker.mp4?raw=true)
 > Ao clicar você ira baixar o video
+<a href="https://github.com/filipebsmaia/ProjetoMaker/blob/master/video/maker.mp4?raw=true">
+  <img src="https://image.prntscr.com/image/dtzo0EwCQW_gPjucGMyE-A.png"/>
+</a>
