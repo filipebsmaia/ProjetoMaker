@@ -1,5 +1,5 @@
 
 *.java linguist-detectable=true
 *.ino linguist-detectable=true
-*.cpp linguist-detectable=true
-*.d linguist-detectable=false
+*.cpp linguist-detectable=false
+*.cpp.d linguist-detectable=false
