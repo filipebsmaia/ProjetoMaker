@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Projeto Maker</string>
+    <string name="title_activity_game_list">GameListActivity</string>
+</resources>
