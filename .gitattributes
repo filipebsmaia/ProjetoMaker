@@ -3,3 +3,6 @@
 *.ino linguist-detectable=true
 *.cpp linguist-detectable=false
 *.cpp.d linguist-detectable=false
+*.d linguist-detectable=false
+*.c.d linguist-detectable=false
+*.mk linguist-detectable=false
