@@ -6,7 +6,8 @@ A conexão arduino-aplicativo foi feita via bluethooth.</i>
 
 ### Codigos
 [Arduino](https://github.com/filipebsmaia/ProjetoMaker/tree/master/arduino)
+
 [Aplicativo](https://github.com/filipebsmaia/ProjetoMaker/tree/master/app)
 
 ### Jogo
-![SnakeGame](videos/snake.gif)
+![SnakeGame](https://github.com/filipebsmaia/ProjetoMaker/tree/master/videos/snake.gif)
