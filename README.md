@@ -5,7 +5,7 @@ A conexão arduino-aplicativo foi feita via bluetooth.</i>
 
 
 ### Linguagens de programação
-C - Arduino
+C - Arduino<br>
 Java - Aplicativo Android
 
 ### Codigos
