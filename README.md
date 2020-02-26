@@ -4,6 +4,10 @@ Foi utilizado uma matriz de LED controlado por arduino onde havia o codigo de jo
 A conexão arduino-aplicativo foi feita via bluetooth.</i>
 
 
+### Linguagens de programação
+C - Arduino
+Java - Aplicativo Android
+
 ### Codigos
 [Arduino](https://github.com/filipebsmaia/ProjetoMaker/tree/master/arduino)
 
