@@ -18,3 +18,10 @@ Java - Aplicativo Android
 <a href="https://github.com/filipebsmaia/ProjetoMaker/blob/master/video/maker.mp4?raw=true">
   <img src="https://image.prntscr.com/image/dtzo0EwCQW_gPjucGMyE-A.png"/>
 </a>
+
+### Na Rede
+[eaeti Ping Pong](https://www.instagram.com/p/ByssB2PhKH1/)
+
+[eaeti Snake](https://www.instagram.com/p/ByssOcpBUuu/)
+
+[Professor Fred - Orientador](https://www.instagram.com/p/Bys7l9bBxY3/)
